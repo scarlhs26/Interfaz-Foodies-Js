@@ -9,14 +9,14 @@ Este proyecto consiste en recrear el estilo frontend de una página de inicio qu
 No tiene ninguna funcionabilidad es solo elementos y estilos.
 ## 🖼 interfaz:
 
-- # Pagina principal:
+- ## Pagina principal:
 ![Feed del usuario](imagenes/landing.png)
 
-- # Modo oscuro:
+- ## Modo oscuro:
 ![Feed del usuario](imagenes/oscuro.PNG)
 
-- # Ventana emergente:
+- ## Ventana emergente:
 ![Feed del usuario](imagenes/ventana.png)
 
-- # Movil:
+- ## Movil:
 ![Feed del usuario](imagenes/Movil.PNG)
